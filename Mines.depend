@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1491382770 source:d:\test\mines\main.cpp
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<list>
+	<queue>
+	<conio.h>
+	<string>
+	<cstdlib>
+	<graphics.h>
+	"Point.h"
+	"Cell.h"
+	"Field.h"
+
+1491037158 d:\test\mines\include\point.h
+
+1491338270 d:\test\mines\include\cell.h
+	"Point.h"
+
+1491419507 d:\test\mines\include\field.h
+	"Field.h"
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<list>
+	<queue>
+	"Point.h"
+	"Cell.h"
+
+1491339978 source:d:\test\mines\src\cell.cpp
+	"Cell.h"
+	"Point.h"
+	<iostream>
+
+1491037202 source:d:\test\mines\src\point.cpp
+	"Point.h"
+
+1491419510 source:d:\test\mines\src\field.cpp
+	"Field.h"
+	<stdio.h>
+	<math.h>
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<list>
+	<queue>
+	"Point.h"
+	"Cell.h"
+
